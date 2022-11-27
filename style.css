@@ -1,0 +1,50 @@
+@charset "UTF-8";  
+
+
+body{
+    background: rgb(137, 103, 240);
+    
+    
+}
+
+
+header{
+    text-align: center;
+    color: white;
+
+}
+
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.301) ;
+
+}
+
+
+footer{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+#msg{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+#foto{
+    align-items: center;
+    text-align: center;
+}
+
+
+#foto img{
+    width: 300px;
+}
+
